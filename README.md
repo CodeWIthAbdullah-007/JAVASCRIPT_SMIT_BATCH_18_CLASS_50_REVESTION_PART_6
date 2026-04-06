@@ -1,2 +1,25 @@
 # JAVASCRIPT_SMIT_BATCH_18_CLASS_50_REVESTION_PART_6
-In this class revision part 6, I reviewed important JavaScript concepts like arrays, functions, loops, and higher order functions. I practiced coding examples to improve my logic building and understanding. This session helped me strengthen my basics and become more confident in writing clean and efficient JavaScript code.
+# JAVASCRIPT_SMIT_BATCH_18_CLASS_50_REVESTION_PART_6 🚀
+
+## 📚 Overview
+In this revision class, I reviewed key JavaScript concepts to improve my understanding and coding skills. This session helped me revise previous topics and practice them with examples.
+
+## 🧠 Topics Covered
+- Arrays 🔢
+- Functions ⚙️
+- Loops 🔁
+- Higher Order Functions 📌
+- Logic Building 🧩
+
+## 💻 What I Practiced
+- Created and used arrays
+- Wrote reusable functions
+- Used loops for repetition
+- Applied higher order functions
+- Improved problem-solving skills
+
+## 🎯 Learning Outcome
+This revision made my JavaScript basics stronger. I feel more confident in coding and understanding how different concepts work together.
+
+## 📌 Conclusion
+Practice and revision are very important. This class helped me revise everything and improve my coding skills step by step. 💪✨
